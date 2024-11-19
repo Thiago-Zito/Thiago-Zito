@@ -1,6 +1,6 @@
 
 ```python
-import Desenvolvedor from "Gabriel Brito";
+import Desenvolvedor from "Thiago Zito";
 
 class SobreMim extends Desenvolvedor {
   nome = "Thiago Nascimento Zito";
